@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="pos2bag" type="pos2bag_node.py" name="pos2bag" >
+  </node>
+</launch>

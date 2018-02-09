@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>pos2bag</name>
+  <version>0.1.0</version>
+  <description>Convert .pos files to .bag files</description>
+
+  <maintainer email="mizuno.naoki@rm.is.tohoku.ac.jp">Naoki Mizuno</maintainer>
+
+  <license>MIT</license>
+
+
+  <author>Naoki Mizuno</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>tf2</run_depend>
+  <run_depend>tf2_ros</run_depend>
+  <run_depend>python-gdal</run_depend>
+</package>
